@@ -1,0 +1,45 @@
+.body {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-image: linear-gradient(to right, #252525, #0c0c96); */
+    /* background-image: url('beautiful-geometric-shapes-in-nature.jpg'); */
+    /* background-image: url('dark-mixed-squares-v27315.png'); */
+}
+
+.h {
+    font-family: Trebuchet MS, sans-serif;
+    margin-top: 1.5rem;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+table {
+    margin: auto;
+    background-color: rgb(155, 236, 236);
+    
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid #245488;
+}
+
+img{
+    float: right;
+    padding-left: 25px;
+    margin-bottom: 1rem;
+}
+
+img + figcaption {
+    font-style: italic;
+    text-align: center;
+  }
+
+figure {
+    display: block;
+    margin: 0 auto;
+    float: right;
+  }
